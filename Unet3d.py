@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 19 19:13:27 2020
 
-@author: 陈健宇
-"""
 
 import torch.nn as nn
 import torch

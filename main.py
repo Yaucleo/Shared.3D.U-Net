@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 19 19:15:06 2020
 
-@author: 陈健宇
-"""
 import os
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "1,2"

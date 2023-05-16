@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 19 19:14:53 2020
 
-@author: 陈健宇
-"""
 
 import torch.utils.data as data
 import os
